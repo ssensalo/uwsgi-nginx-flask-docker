@@ -21,6 +21,7 @@
 
 ### Internal
 
+* ⬆️ Upgrade latest-changes to 0.7.1. PR [#431](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/431) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Fix Docker action pin version comments. PR [#429](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/429) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Fix latest-changes checkout target. PR [#428](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/428) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Update issue-manager to 0.8.1. PR [#427](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/427) by [@tiangolo](https://github.com/tiangolo).
