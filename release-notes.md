@@ -21,6 +21,7 @@
 
 ### Internal
 
+* 🔧 Fix Zizmor version comments. PR [#433](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/433) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove the old Latest Changes workflow. PR [#432](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/432) by [@tiangolo](https://github.com/tiangolo).
 * ⬆️ Upgrade latest-changes to 0.7.1. PR [#431](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/431) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Fix Docker action pin version comments. PR [#429](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/429) by [@tiangolo](https://github.com/tiangolo).
