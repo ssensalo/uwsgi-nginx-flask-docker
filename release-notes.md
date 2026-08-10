@@ -21,6 +21,7 @@
 
 ### Internal
 
+* 👷 Remove legacy label check. PR [#434](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/434) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump the github-actions group across 1 directory with 7 updates. PR [#430](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/430) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 🔧 Fix Zizmor version comments. PR [#433](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/433) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove the old Latest Changes workflow. PR [#432](https://github.com/tiangolo/uwsgi-nginx-flask-docker/pull/432) by [@tiangolo](https://github.com/tiangolo).
